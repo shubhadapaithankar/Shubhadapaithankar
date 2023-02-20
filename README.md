@@ -20,13 +20,11 @@ Here are some ideas to get you started:
 MS Student with a demonstrated history of working in the information technology and services industry with professional and academic experience in SRE (Site Reliability Engineering). 
 
 ## 🌱 Technical Skills
-
 * **Cloud Platforms** : AWS, GCP
 * **Infrastructure Automation** : Ansible 
 * **Containerization**: Docker, Kubernetes
 * **Monitoring and Logging**: Prometheus, Grafana, Zabbix, Nagios 
-* **Programming Languages**: Python,Bash,Java
-* **Storage**: NFS, Samba
+* **Programming Languages**: Python, Bash, Java
 * **Additional Skills**: Virtualization, PXE, DNS, DHCP ,ML, AI
 
 ## 🔭 Current Work
