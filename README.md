@@ -22,7 +22,7 @@ MS Student with a demonstrated history of working in the information technology 
 ## 🌱 Technical Skills
 * **Cloud Platforms** : AWS, GCP
 * **Infrastructure Automation** : Ansible 
-* **Containerization**: Docker, Kubernetes
+* **Containerization**: Docker, Kubernetes, Openshift
 * **Monitoring and Logging**: Prometheus, Grafana, Zabbix, Nagios 
 * **Programming Languages**: Python, Bash, Java
 * **Additional Skills**: Virtualization, PXE, DNS, DHCP ,ML, AI
