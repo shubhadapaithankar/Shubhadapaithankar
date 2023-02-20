@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there, I'm Shubhada 👋
+
+MS Student with a demonstrated history of working in the information technology and services industry with professional and academic experience in SRE (Site Reliability Engineering). 
+
+## 🌱 Technical Skills
+
+* Cloud Platforms: AWS, GCP
+* Infrastructure Automation: Ansible 
+* Containerization: Docker, Kubernetes
+* Monitoring and Logging: Prometheus, Grafana
+* Programming Languages: Python,Bash,Java
