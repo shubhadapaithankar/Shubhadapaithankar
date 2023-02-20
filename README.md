@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **shubhadapaithankar/Shubhadapaithankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there, I'm Shubhada 👋
+### Hi there, I'm Shubhada 👋
 
 MS Student with a demonstrated history of working in the information technology and services industry with professional and academic experience in SRE (Site Reliability Engineering). 
 
@@ -24,5 +24,15 @@ MS Student with a demonstrated history of working in the information technology 
 * Cloud Platforms: AWS, GCP
 * Infrastructure Automation: Ansible 
 * Containerization: Docker, Kubernetes
-* Monitoring and Logging: Prometheus, Grafana
+* Monitoring and Logging: Prometheus, Grafana, Zabbix, Nagios 
 * Programming Languages: Python,Bash,Java
+* Storage: NFS, Samba
+* Additional Skills: Virtualization, PXE, DNS, DHCP ,ML, AI
+
+## 🔭 Current Work
+I'm currently pursuing my Masters in Software Engineering at SJSU, where I'm working on various software development projects. My current focus is on:
+
+* Designing and developing applications using modern software engineering practices and technologies.
+* Building and deploying applications using containerization tools like Docker and Kubernetes.
+* Developing and implementing continuous integration and delivery pipelines using tools like Jenkins and GitLab CI/CD.
+* Collaborating with cross-functional teams to ensure that software development processes are highly efficient and reliable.
