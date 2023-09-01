@@ -60,4 +60,3 @@ I'm currently pursuing my Master in Software Engineering at SJSU, where I'm work
 ![](https://github-profile-trophy.vercel.app/?username=manasayadlapalli&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=manasayadlapalli&icon=0&color=0)](https://visitcount.itsvg.in)
