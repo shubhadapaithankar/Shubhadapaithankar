@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Shubhada 👋
 
-MS Student with a demonstrated history of working in the information technology and services industry with professional and academic experience in SRE (Site Reliability Engineering). 
+Software Engineer with a demonstrated history of working in the information technology and services industry with professional and academic experience in SRE (Site Reliability Engineering). 
 
 <h3 align="center"></h3>
 
