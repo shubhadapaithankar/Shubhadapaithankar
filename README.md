@@ -37,15 +37,3 @@ Software Engineer with a demonstrated history of working in the information tech
 * **CI/CD**: Bamboo, Jenkins
 * **Additional Skills**: Virtualization, PXE, DNS, DHCP ,ML, AI
 
-### Site Reliability Engineering
-* Designing and implementing infrastructure automation using tools like Terraform and Ansible.
-* Developing and implementing monitoring and logging solutions using tools like Prometheus, Grafana, and Jenkins.
-* Leading incident response and post-incident reviews to identify root causes and prevent future incidents.
-* Evaluating and implementing new technologies to improve system performance, reliability, and security.
-
-### Software Development
-* Designing and developing applications using modern software engineering practices and technologies.
-* Building and deploying applications using containerization tools like Docker and Kubernetes.
-* Developing and implementing continuous integration and delivery pipelines using tools like Jenkins and GitLab CI/CD.
-* Collaborating with cross-functional teams to ensure that software development processes are highly efficient and reliable.
-
