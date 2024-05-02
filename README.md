@@ -37,9 +37,6 @@ MS Student with a demonstrated history of working in the information technology 
 * **CI/CD**: Bamboo, Jenkins
 * **Additional Skills**: Virtualization, PXE, DNS, DHCP ,ML, AI
 
-## 🔭 Current Work
-I'm currently pursuing my Master in Software Engineering at SJSU, where I'm working on various software development projects. My current focus is on:
-
 ### Site Reliability Engineering
 * Designing and implementing infrastructure automation using tools like Terraform and Ansible.
 * Developing and implementing monitoring and logging solutions using tools like Prometheus, Grafana, and Jenkins.
@@ -52,11 +49,3 @@ I'm currently pursuing my Master in Software Engineering at SJSU, where I'm work
 * Developing and implementing continuous integration and delivery pipelines using tools like Jenkins and GitLab CI/CD.
 * Collaborating with cross-functional teams to ensure that software development processes are highly efficient and reliable.
 
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=manasayadlapalli&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manasayadlapalli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manasayadlapalli&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
